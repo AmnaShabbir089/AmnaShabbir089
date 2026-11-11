@@ -1,7 +1,7 @@
 # Hi there, I'm Amna 👋
 
 - 🔭 **Currently working on:** Web Scraping & Python Automation projects
-- 🌱 **Currently learning:** Data Science, Machine Learning, and CS50P
+- 🌱 **Currently learning:**  artificial intelligence, Machine Learning, and CS50P
 - 💻 **Tech Stack:** Python, Pandas, BeautifulSoup, Requests, Tkinter, Pygame, Git & GitHub
 - ⚡ **Fun Fact:** I document my daily coding journey and build real-world automation tools!
 
